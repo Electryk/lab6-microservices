@@ -1,8 +1,8 @@
 - Two microservices running:
-(img/LogAndDashboardEvidence.png)
+  ![LogAndDashboardEvidence](img/LogAndDashboardEvidence.png)
 
 - A third accounts microservice added at port 4444:
-(img/2ndAccountServiceLogEvidence.png)
+  ![2ndAccountServiceLogEvidence](img/2ndAccountServiceLogEvidence.png)
 
 - Why the web microservice still running correctry when 1st accounts microservice is dead?
 
